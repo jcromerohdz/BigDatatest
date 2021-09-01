@@ -8,3 +8,8 @@ git clone git@github.com:jcromerohdz/BigDatatest.git
 ```sh
 git checkout -b development 
 ```
+- Pushing changes to development branc
+
+```sh
+git push
+```
